@@ -79,10 +79,14 @@ Start the server
 ```bash
   streamlit run app.py
 ```
+## Screenshots
 
+<img width="1512" alt="Screenshot 2023-04-07 at 11 54 23 PM" src="https://user-images.githubusercontent.com/46817661/230702284-5b8ce3b8-7de3-4a6b-b432-f7b6baa01521.png">
+
+<img width="1512" alt="Screenshot 2023-04-07 at 11 57 12 PM" src="https://user-images.githubusercontent.com/46817661/230702296-2ad51c11-a2f3-45ef-b170-d272205ab6d9.png">
 
 ## Deployment
 I saved the preprocessed dataframe and similarity matrix as pickle files and deployed the system using Streamlit.
-## Conclusion
 
+## Conclusion
 Overall, this project demonstrated how to build a movie recommendation system using Python and various libraries. By preprocessing the data and using cosine similarity, I was able to create a system that provides movie recommendations based on user input.
