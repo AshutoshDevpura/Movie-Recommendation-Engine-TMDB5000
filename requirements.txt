@@ -3,3 +3,5 @@ streamlit
 
 ### local packages -
 -e . 
+
+pandas<2
